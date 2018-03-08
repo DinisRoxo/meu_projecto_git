@@ -1,2 +1,3 @@
 este é outro exemplo de um ficheiro de texto
 
+Outra alteração no ficheiro X
